@@ -5,4 +5,4 @@
 - [keras.io](https://keras.io)
 - [paperswithcode.com](https://paperswithcode.com)
 
-![Snake comic](images/snake.jpg)
+![Snake comic](img/snake.jpg)
