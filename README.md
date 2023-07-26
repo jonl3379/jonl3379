@@ -1,3 +1,5 @@
+![Snake comic](img/snake.jpg)
+
 # Hello visitor
 
 ## Links for students
@@ -5,4 +7,3 @@
 - [keras.io](https://keras.io)
 - [paperswithcode.com](https://paperswithcode.com)
 
-![Snake comic](img/snake.jpg)
