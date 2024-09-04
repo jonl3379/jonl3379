@@ -6,7 +6,7 @@
 - [huggingface.co](https://huggingface.co)
 - [keras.io](https://keras.io)
 - [paperswithcode.com](https://paperswithcode.com)
-- [Friedburg on AI](https://youtube.com/clip/UgkxI9gogB8eXT9OPhGVa5yTPhnDlocoD7X5?feature=shared)
+- [Friedburg on AI](https://youtube.com/clip/UgkxBwg5h606JSZay_5fl07nodxKSeCjc1YQ)
 
 
 ## Links for vet students
