@@ -7,11 +7,13 @@
 - [keras.io](https://keras.io)
 - [paperswithcode.com](https://paperswithcode.com)
 - [Friedburg on AI](https://youtube.com/clip/UgkxBwg5h606JSZay_5fl07nodxKSeCjc1YQ)
+- [.](https://docs.google.com/presentation/d/17cQjQwHSgDMlM_iSC9x--zj-w18bdwC-SZtE903RWzw/edit?usp=sharing)
 
 
 ## Links for vet students
 - [acp-usa.org](https://www.acp-usa.org)
 - [fourblock.org](https://fourblock.org)
+
 
 # NYC Tech & Data Science Resources
 
