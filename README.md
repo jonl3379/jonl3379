@@ -7,6 +7,8 @@
 - [keras.io](https://keras.io)
 - [paperswithcode.com](https://paperswithcode.com)
 - [Friedburg on AI](https://youtube.com/clip/UgkxBwg5h606JSZay_5fl07nodxKSeCjc1YQ)
+- [Calacanis on AI stall](https://youtube.com/clip/UgkxfpPgrWEMlh0KoFkzsbtA8WltJy8ElBPL)
+- [Ng on AI and CS](https://youtube.com/shorts/dAjG6e2T8zY)
 - [Day 1 slides](https://docs.google.com/presentation/d/1b8Cbh9xnC3OpuyP9uvQT21bfVpx5IGU4Y0u7JrD_s7c)
 
 ## Links for vet students
