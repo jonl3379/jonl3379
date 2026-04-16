@@ -54,6 +54,7 @@
 - [TECHSPO New York](https://techsponyc.com/new-york-software-development-events/) (Usually in July) - Tech expo featuring new innovations.
 - [O’Reilly Strata Data & AI Conference NYC](https://conferences.oreilly.com/strata) (Annually in September) - Data & AI industry conference.
 - [AI Summit New York](https://newyork.theaisummit.com) (Annually in December) - AI and enterprise-focused event.
+- [Tech Week](https://www.tech-week.com) (NY in June 1-7)
 
 ## 🎥 YouTube Channels & Podcasts
 
