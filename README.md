@@ -18,6 +18,11 @@
 - [acp-usa.org](https://www.acp-usa.org)
 - [fourblock.org](https://fourblock.org)
 
+## Online Learning
+- [LinkedIn Leaning via Pace](https://www.pace.edu/its/teaching-and-learning/linkedin-learning)
+- [Coursera Google Learning via Pace](https://www.coursera.org/programs/pace-university-google-learning-program-ils2r?authProvider=gwg-ent-pace-university)
+- [IBM Skillsbuild](https://skillsbuild.org/)
+- [Amazon AWS Builder](https://builder.aws.com/)
 
 # Tech & Data Science Resources
 
