@@ -13,6 +13,8 @@
 - [Sacks on Jevon's Paradox](https://www.youtube.com/clip/UgkxtiUJOu12E4MN9uekrnbxoBbwUMZKHCFu)
 - [https://youtube.com/clip/Ugkx4fYK16kYIz6Ohj5sycLxef51a81CMSM-?si=DGLLwlSbp7uSrveX](https://youtube.com/clip/Ugkx4fYK16kYIz6Ohj5sycLxef51a81CMSM-?si=DGLLwlSbp7uSrveX)
 - [Day 1 slides](https://docs.google.com/presentation/d/1b8Cbh9xnC3OpuyP9uvQT21bfVpx5IGU4Y0u7JrD_s7c)
+- [For my use later](https://www.youtube.com/watch?v=PivpCKEiQOQ)
+
 
 ## Links for vet students
 - [acp-usa.org](https://www.acp-usa.org)
